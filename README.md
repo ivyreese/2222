@@ -79,8 +79,6 @@ Here are some suggested ways to share:
 Variations are encouraged! For instance, here's what I call the **speedrun** variation:
 
 * Shuffle the order of the words.
-* Keep track how many times you mess up.
-  * Eg: Make it so that if you mash something on your keyboard, it increments a "deaths" counter.
 * Instead of advancing the words every `0.6039604` seconds, add a button to advance to the next word.
 
 With these rules, scoring works as follows:
